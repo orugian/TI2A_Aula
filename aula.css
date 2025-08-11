@@ -1,0 +1,43 @@
+*{
+    
+    justify-items: center;
+}
+
+h1{
+    display: flex;
+    text-align: center;
+    text-align: right;
+    background-color: blueviolet;
+    justify-content: right;
+    padding: 10px;
+    width: 1080px;
+}
+
+.texto_foto{
+    padding-bottom: 300px;
+}
+
+h2{
+    background-color: blueviolet;
+    width: 1080px;
+    padding: 10px;
+}
+
+.foto-perfil>img{
+    width: 300px;
+    height: auto;
+    justify-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+    
+
+ul>li{
+    padding-bottom: 10px;
+}
+
+ul>p{
+    text-align: left;
+    justify-content: left;
+    justify-items: left;
+}

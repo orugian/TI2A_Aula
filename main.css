@@ -1,0 +1,49 @@
+*{
+    font-size: larger;
+    align-items: center;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: "Playwrite HU";
+    font-optical-sizing: auto;
+    font-style: normal;
+    align-content: center;
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+
+
+h2{
+    font-weight: 100;
+    color: rgb(110, 110, 110);
+    font-weight: 500;
+}
+
+.container{
+    border: 1px solid black;
+    padding: 30px;
+}
+
+.Imagem1{
+   width: 500px;
+  height: auto;
+}
+
+.botao{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-weight: bolder;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: zoom-in;
+}
+
+.prompt{
+    align-items: center;
+    text-align: center;
+    
+}
